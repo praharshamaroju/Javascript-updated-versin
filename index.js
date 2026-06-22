@@ -43,3 +43,16 @@ let s=function add(){
 }
 
 s();
+let str="roh";
+str="mohan";
+//non primtive
+let av=[10,20,30,40,50,522,302]
+av.push(309);
+console.log(av);
+av[1]=21;
+let p={
+  name:"ahah",
+  id:20
+}
+p.name="nij";
+console.log(p);
