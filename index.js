@@ -76,3 +76,18 @@ let h=String(g);
 console.log(h);
 let t = true;
 console.log(Number(t));
+//boolean connvert
+console.log(Boolean("hello"));
+//computer science
+let k=0.1
+let f=0.2
+let c=k+f;
+console.log(c);
+console.log(null==undefined);
+console.log(null==0);
+console.log(null>=0);
+console.log("rohit">"mOhit");
+console.log(10>="10");
+console.log(10<true);
+console.log(null>="");
+console.log(NaN==NaN);
