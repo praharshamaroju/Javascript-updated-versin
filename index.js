@@ -56,3 +56,23 @@ let p={
 }
 p.name="nij";
 console.log(p);
+console.log(2+3)
+let x=10;
+let y="10";
+x+=y;
+console.log(x);
+console.log(x>y);
+console.log(x==y);
+console.log(x===y);
+
+let z="10";
+let v = Number(z);
+console.log(v);
+//naN --Not a number(type of it is number)
+
+//number->string
+let g=10;
+let h=String(g);
+console.log(h);
+let t = true;
+console.log(Number(t));
